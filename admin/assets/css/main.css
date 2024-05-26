@@ -1,0 +1,14 @@
+.kpm_button_container {
+    margin-top: 30px;
+}
+
+input.input-error,
+select.input-error {
+    border: 1px solid #ff0000;
+}
+
+select#brandNameDrp,
+select#editBrandNameDrp {
+    max-width: 100%;
+    height: 34px;
+}

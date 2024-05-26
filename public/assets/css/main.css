@@ -1,0 +1,7 @@
+body.woocommerce-order-received ul.wc-item-meta {
+    display: none;
+}
+
+body.woocommerce-order-received td.woocommerce-table__product-name.product-name p {
+    margin-bottom: 0;
+}
